@@ -14,7 +14,7 @@ if linkage != nil
   use_frameworks! :linkage => linkage.to_sym
 end
 
-target 'wizMarket_report_app_fe_test' do
+target 'wmr_app' do
   config = use_native_modules!
 
   use_react_native!(
@@ -23,7 +23,7 @@ target 'wizMarket_report_app_fe_test' do
     :app_path => "#{Pod::Config.instance.installation_root}/.."
   )
 
-  target 'wizMarket_report_app_fe_testTests' do
+  target 'wmr_appTests' do
     inherit! :complete
     # Pods for testing
   end

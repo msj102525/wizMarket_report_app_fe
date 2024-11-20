@@ -1,4 +1,4 @@
-package com.wizmarket_report_app_fe_test
+package com.wmr_app
 
 import android.app.Application
 import com.facebook.react.PackageList

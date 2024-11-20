@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "wizMarket_report_app_fe_test.app"
-               BlueprintName = "wizMarket_report_app_fe_test"
-               ReferencedContainer = "container:wizMarket_report_app_fe_test.xcodeproj">
+               BuildableName = "wmr_app.app"
+               BlueprintName = "wmr_app"
+               ReferencedContainer = "container:wmr_app.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "wizMarket_report_app_fe_testTests.xctest"
-               BlueprintName = "wizMarket_report_app_fe_testTests"
-               ReferencedContainer = "container:wizMarket_report_app_fe_test.xcodeproj">
+               BuildableName = "wmr_appTests.xctest"
+               BlueprintName = "wmr_appTests"
+               ReferencedContainer = "container:wmr_app.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "wizMarket_report_app_fe_test.app"
-            BlueprintName = "wizMarket_report_app_fe_test"
-            ReferencedContainer = "container:wizMarket_report_app_fe_test.xcodeproj">
+            BuildableName = "wmr_app.app"
+            BlueprintName = "wmr_app"
+            ReferencedContainer = "container:wmr_app.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "wizMarket_report_app_fe_test.app"
-            BlueprintName = "wizMarket_report_app_fe_test"
-            ReferencedContainer = "container:wizMarket_report_app_fe_test.xcodeproj">
+            BuildableName = "wmr_app.app"
+            BlueprintName = "wmr_app"
+            ReferencedContainer = "container:wmr_app.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

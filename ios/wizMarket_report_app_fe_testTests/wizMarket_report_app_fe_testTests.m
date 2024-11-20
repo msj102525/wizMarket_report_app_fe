@@ -7,11 +7,11 @@
 #define TIMEOUT_SECONDS 600
 #define TEXT_TO_LOOK_FOR @"Welcome to React"
 
-@interface wizMarket_report_app_fe_testTests : XCTestCase
+@interface wmr_appTests : XCTestCase
 
 @end
 
-@implementation wizMarket_report_app_fe_testTests
+@implementation wmr_appTests
 
 - (BOOL)findSubviewInView:(UIView *)view matching:(BOOL (^)(UIView *view))test
 {
