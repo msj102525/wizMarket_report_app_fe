@@ -2,7 +2,7 @@ import axios from 'axios';
 import { REACT_APP_FASTAPI_ADMIN_URL } from '@env';
 
 const instance = axios.create({
-    baseURL: REACT_APP_FASTAPI_ADMIN_URL || 'http://192.168.0.240:8001',
+    baseURL: REACT_APP_FASTAPI_ADMIN_URL || 'http://192.168.0.240:8000',
     timeout: 15000,
     headers: {
         'Content-Type': 'application/json',
